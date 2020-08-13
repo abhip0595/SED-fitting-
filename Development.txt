@@ -1,0 +1,9 @@
+This program is written in Interactivve Data Language (IDL).
+Program has been tested by using GNU data language (GDL) installed on Ubuntu 20.04LTS running on Windows Subsystem Linux (WSL).
+
+We have added the following library files to GDL:
+  1. Astrolib     https://idlastro.gsfc.nasa.gov/
+  2. Cyote        http://www.idlcoyote.com/
+  3. IUEDAC       https://archive.stsci.edu/iue/iuedac.html
+  
+This project is currently under development.

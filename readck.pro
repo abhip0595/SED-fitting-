@@ -1,3 +1,6 @@
+;This program reads castelli and kurucz ATLAS9 model
+;https://www.stsci.edu/hst/instrumentation/reference-data-for-calibration-and-tools/astronomical-catalogs/castelli-and-kurucz-atlas
+
 function readck,temp=temp,mh=mh,lg=lg
 
 	if mh eq -25 then str='ckm25'
